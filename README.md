@@ -1,4 +1,4 @@
-# EMI Calculator v6.0 (versionCode 6)
+# EMI Calculator v6.0 (versionCode 6 nil edited
 
 ## Pro / subscription (Google Play Billing)
 Play Console -> Monetize -> Subscriptions:
